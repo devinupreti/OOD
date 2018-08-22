@@ -1,0 +1,15 @@
+Additional Information for Project2 
+===================================
+
+The files and folders for the Repository testbed are created at the address : ..\\Folders\\
+
+..\\Folders\\Client -> contains files from packages used to add to the Repository
+..\\Folders\\Server -> contains files that are added to the Repository
+..\\Folders\\CheckOutFiles -> contains files that are checked out from the Repository
+
+You can delete everything INSIDE the CheckOutFiles folder and the Server folder but not the package files inside Client Folder.
+Please don't delete the Folder itself for the three mentioned.
+
+Purpose:
+- Project 2 creates a Software Repository Testbed, that manages package versions for files in a package.
+

@@ -1,0 +1,1 @@
+devenv RepoTestbed.sln /rebuild debug
