@@ -1,0 +1,2 @@
+﻿Utilities.lib(Utilities.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Translater.vcxproj -> C:\Users\Devin\Desktop\Project4\Project4Demo\Debug\Translater.dll

@@ -1,0 +1,9 @@
+﻿  DateTime.cpp
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(69): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(101): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(102): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(103): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(104): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(105): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\devin\desktop\devinupreti-project2\repotestbed\datetime\datetime.cpp(106): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  DateTime.vcxproj -> C:\Users\Devin\Desktop\DevinUpreti-Project2\RepoTestbed\x64\Debug\DateTime.lib

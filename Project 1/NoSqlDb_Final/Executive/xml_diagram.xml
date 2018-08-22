@@ -1,0 +1,210 @@
+  
+  <db type="testDb">
+    <dbRecord>
+      <key>
+        DbCore
+      </key>
+      <value>
+        <name>
+          DbCore
+        </name>
+        <description>
+          Implements NoSql db
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+          <child>
+          	DateTime
+          </child>
+          <child>
+          	Query
+          </child>
+          <child>
+          	XmlDocument
+          </child>
+          <child>
+          	XmlElement
+          </child>
+        </children>
+        <payload>
+          Classes : DbCore, DbElement, Payload
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        DateTime
+      </key>
+      <value>
+        <name>
+          DateTime
+        </name>
+        <description>
+          represents clock time
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : DateTime
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Query
+      </key>
+      <value>
+        <name>
+          Query
+        </name>
+        <description>
+          Implements Query ops
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : Query, Conditions
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Executive
+      </key>
+      <value>
+        <name>
+          Executive
+        </name>
+        <description>
+          Executes all the tests
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+          <child>
+          	Test
+          </child>
+        </children>
+        <payload>
+          Classes : None
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        StringUtilities
+      </key>
+      <value>
+        <name>
+          StringUtilities
+        </name>
+        <description>
+           helper classes
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : None
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        Test
+      </key>
+      <value>
+        <name>
+          Test
+        </name>
+        <description>
+          Test Functions
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+          <child>
+          	DbCore
+          </child>
+        </children>
+        <payload>
+          Classes : DbProvider
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        TestUtilities
+      </key>
+      <value>
+        <name>
+          TestUtilities
+        </name>
+        <description>
+          test harness
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : TestExecutor
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        XmlDocument
+      </key>
+      <value>
+        <name>
+          XmlDocument
+        </name>
+        <description>
+           node container
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : XmlDocument
+        </payload>
+      </value>
+    </dbRecord>
+    <dbRecord>
+      <key>
+        XmlElement
+      </key>
+      <value>
+        <name>
+          XmlElement
+        </name>
+        <description>
+           defines Element types
+        </description>
+        <datetime>
+          Tue Feb  6 20:02:48 2018
+        </datetime>
+        <children>
+        </children>
+        <payload>
+          Classes : AbstractXmlElement, DocElement, ...
+        </payload>
+      </value>
+    </dbRecord>
+  </db>

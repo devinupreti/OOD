@@ -1,0 +1,11 @@
+﻿  XmlParser.cpp
+c:\users\devin\desktop\nosqldb\xmlparser\xmlparser.h(60): fatal error C1083: Cannot open include file: '../XmlElementParts/itokcollection.h': No such file or directory
+  xmlElementParts.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\XmlElementParts\xmlElementParts.cpp': No such file or directory
+  Tokenizer.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\XmlElementParts\Tokenizer.cpp': No such file or directory
+  XmlDocument.cpp
+c:\users\devin\desktop\nosqldb\xmlparser\xmlparser.h(60): fatal error C1083: Cannot open include file: '../XmlElementParts/itokcollection.h': No such file or directory
+  Utilities.cpp
+c1xx : fatal error C1083: Cannot open source file: '..\Utilities\Utilities.cpp': No such file or directory
+  Generating Code...

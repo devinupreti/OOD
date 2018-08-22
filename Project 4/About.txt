@@ -1,0 +1,43 @@
+About Project 4 - Remote Code Repository
+=======================================================
+Author : Devin Upreti
+Course : CSE 687 - Object Oriented Design
+
+1. Project 4 pulls all the necessary parts for 
+   Remote Code into a single solution:
+   - GUI client
+   - UnitTest(Server)
+   - MsgPassingComm
+   - NoSqlDb
+   Some supporting actors are used as well:
+   - CommLibWrapper
+   - DateTime
+   - DbCore
+   - FileSystem
+   - PayLoad
+   - Sockets
+   - Translater
+   - Utilities
+   - XmlDocument
+2. This is a complete solution for the Project #4 Requirements.
+3. There are Tabs:
+   - Local to show client files and directories.
+   - Remote to show server files and directories.
+   - Connect to demonstrate asynchronous message communication.
+   - Query to as a way for you to browse selected contents of the db.
+   - About displays the text of this file.
+3. What it does do:
+   - Shows local and remote directories and files.
+   - Double-clicking on a directory navigates into that directory
+     and shows its contents for both the local and remote locations.
+   - CheckIn click on a file in local navigator will send the file 
+     from the client to server.  And the Server ChecksIn the file into
+	 the Server Repository.
+   - CheckOut click on a file in remote navigator will send the file 
+     from the server to client and ChecksOut the file.
+   - The client can also browse queries using the Query tab.
+
+4. There is also a grid row on the main display which is used as
+   a status bar.  
+
+

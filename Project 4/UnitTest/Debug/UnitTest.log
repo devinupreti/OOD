@@ -1,0 +1,3 @@
+﻿  UnitTest.cpp
+c:\users\devin\desktop\project4\project4demo\unittest\unittest.cpp(147): warning C4018: '<': signed/unsigned mismatch
+  UnitTest.vcxproj -> C:\Users\Devin\Desktop\Project4\Project4Demo\Debug\UnitTest.exe
