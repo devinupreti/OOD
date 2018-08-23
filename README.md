@@ -4,6 +4,10 @@ Object Oriented Design [CSE 687]
 Platform : Windows  
 IDE : Microsoft Visual Studio
 
+Contributors -- Prof. Jim Fawcett, Devin Upreti
+
+
+
 Division into 4 projects :  
 
 ## Project 1 -> Key / Value Database  
