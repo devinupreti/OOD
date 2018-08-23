@@ -11,8 +11,6 @@ Contributors -- Prof. Jim Fawcett, Devin Upreti
 Division into 4 projects :  
 
 ## Project 1 -> Key / Value Database  
------
-
 In this project we explored how a non SQL database can be constructed and used  
 
 ## Project 2 -> Software Repository Testbed  
