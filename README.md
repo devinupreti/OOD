@@ -11,7 +11,7 @@ Contributors -- Prof. Jim Fawcett, Devin Upreti
 Division into 4 projects :  
 
 ## Project 1 -> Key / Value Database  
-In this project we explored how a non SQL database can be constructed and used  
+In this project we explored how a non SQL database can be constructed and used.  
 
 ## Project 2 -> Software Repository Testbed  
 The second project focused on building the core capability of a Software Repository. The Repository is intended to manage a, possibly large, collection of source code packages, providing versioning, check-in, check-out, and browsing.  
