@@ -1,5 +1,7 @@
 # OOD
 Object Oriented Design [CSE 687]
+Warning : If you use any code in this repository for submission to assignments or projects, then you are violating Academic Integrity. 
+
 
 Platform : Windows  
 IDE : Microsoft Visual Studio
