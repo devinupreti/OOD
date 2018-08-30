@@ -1,4 +1,4 @@
-# OOD
+# Remote Code Repository
 
 Warning : If you use any code in this repository for submission to assignments or projects, then you are violating Academic Integrity. 
 
@@ -6,8 +6,9 @@ Warning : If you use any code in this repository for submission to assignments o
 Platform : Windows  
 IDE : Microsoft Visual Studio
 
-Contributors -- Prof. Jim Fawcett, Devin Upreti
+Contributors -- Prof. Jim Fawcett, Devin Upreti  
 
+The project design is based on Object Oriented Programming Principles  
 
 Division into 4 projects :  
 
